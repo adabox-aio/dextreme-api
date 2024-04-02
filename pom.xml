@@ -23,7 +23,7 @@
         <version.jacoco-maven-plugin>0.8.10</version.jacoco-maven-plugin>
         <commons-lang3.version>3.14.0</commons-lang3.version>
         <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
-        <jacoco-maven-plugin.version>0.8.11</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.12</jacoco-maven-plugin.version>
         <maven-surefire-plugin.version>3.2.5</maven-surefire-plugin.version>
         <nexus-staging-maven-plugin.version>1.6.13</nexus-staging-maven-plugin.version>
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
