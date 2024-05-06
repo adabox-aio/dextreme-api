@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cardano-client-lib.version>0.5.2-SNAPSHOT</cardano-client-lib.version>
         <lombok.version>1.18.30</lombok.version>
-        <jackson-databind.version>2.16.1</jackson-databind.version>
+        <jackson-databind.version>2.17.1</jackson-databind.version>
         <annotations.version>24.1.0</annotations.version>
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
         <slf4j-api.version>2.0.12</slf4j-api.version>
